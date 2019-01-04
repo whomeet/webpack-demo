@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo13",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server --open",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "html-webpack-plugin": "^3.2.0"
+  }
+}
